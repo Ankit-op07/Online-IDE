@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dc86566a-6269-47b9-9913-0bdd093cf323" name="localhost" url="http://localhost /index.html">
+        <fileTransfer mountedRoot="C:\Users\HP\Desktop\Online IDE\ui" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
